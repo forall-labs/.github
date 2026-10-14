@@ -1,6 +1,6 @@
 # .github
 
-Org-wide defaults for [ForAll Labs](https://forall-labs.ai).
+Org-wide defaults for [Forall Labs](https://forall-labs.ai).
 
 | Path | What it does |
 |---|---|

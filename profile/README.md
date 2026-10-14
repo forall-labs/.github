@@ -1,10 +1,10 @@
-<h1 align="center">∀ ForAll Labs</h1>
+<h1 align="center">∀ Forall Labs</h1>
 <p align="center"><strong>Open research in AI, for all of humanity.</strong></p>
 <p align="center">Independent · Non-profit · Toronto · <a href="https://forall-labs.ai">forall-labs.ai</a></p>
 
 ---
 
-ForAll Labs is an open research community. Anyone can join, every result is shared, and the work
+Forall Labs is an open research community. Anyone can join, every result is shared, and the work
 is aimed at AI that helps people, not just the few who can afford it.
 
 ## What we stand for
