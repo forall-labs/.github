@@ -1,6 +1,7 @@
-<h1 align="center">∀ Forall Labs</h1>
+<p align="center"><img src="https://forall-labs.github.io/favicon.svg" width="72" alt=""></p>
+<h1 align="center">Forall Labs</h1>
 <p align="center"><strong>Open research in AI, for all of humanity.</strong></p>
-<p align="center">Independent · Non-profit · Toronto · <a href="https://forall-labs.ai">forall-labs.ai</a></p>
+<p align="center"><a href="https://forall-labs.github.io">forall-labs.github.io</a></p>
 
 ---
 
@@ -31,12 +32,12 @@ First projects and papers will be listed here as they are released.
 
 Students, independent researchers, engineers and domain experts are all welcome.
 
-- **[Join the community](https://forall-labs.ai/apply.html)** — apply to become a member.
-- **[Propose a project](https://forall-labs.ai/propose.html)** — pitch a research idea and find collaborators.
-- **Reading group** — a weekly online session on a recent paper, open to all levels.
-- **Support the work** — donate compute, credits or funding so research is not limited to big labs.
+- **[Become a member](https://forall-labs.github.io/apply/).** Membership is free and open to everyone.
+- **[Propose a project](https://forall-labs.github.io/propose/).** Pitch a research idea and find collaborators.
+- **[Join the reading group](https://forall-labs.github.io/contact/?topic=reading-group).** A weekly online session on a recent paper, open to every level.
+- **[Support the work](https://forall-labs.github.io/contact/?topic=support).** Donate compute, credits or funding so serious research is not limited to the largest labs.
 
-Questions: **hello@forall-labs.ai**
+Questions: use the [contact form](https://forall-labs.github.io/contact/).
 
 ## How we license
 
